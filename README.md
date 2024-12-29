@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ## Projects
 - [Webmap](https://danieljott.github.io/webmap/) Tierpark Olderdissen
+- [U-Net](https://github.com/DanielJott/U_Net_Photovoltaic_Detection/blob/main/Photovoltaic%20_Detection_UNet.ipynb) based Photovoltaic Detection at the Muttsee Dam, Switzerland
